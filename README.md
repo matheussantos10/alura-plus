@@ -18,3 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - Git e Github
+
+## 🖱 Página publicada
+
+ * https://matheussantos10.github.io/alura-plus/
