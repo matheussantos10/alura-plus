@@ -15,10 +15,9 @@ Projeto da plataforma Alura+. Desenvolvido com a plataforma de cursos da Alura, 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- Figma
 - HTML
 - CSS
-- Figma
-- Git e Github
 - Vercel
 
 ## 🖱 Página publicada
